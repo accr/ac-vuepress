@@ -35,7 +35,8 @@ module.exports = {
       { text: '项目案例',
         items: [
           { text: '去中心化电商', link: '/project/ec/' },
-          { text: '区块链', link: '/blog/blockchain/' }
+          { text: '区块链', link: '/blog/blockchain/' },
+          { text: '基于', link: '/m' }
         ]
       },
       { text: '投资理财', link: '/investment/' },
@@ -45,7 +46,7 @@ module.exports = {
     // locales: {
     //   '/': {
     //     label: '简体中文',
-    //     selectText: 'Languages',
+    //     selectText:  'Languages',
     //     editLinkText: 'Edit this page on GitHub',
     //     nav: [
     //       {
